@@ -1,0 +1,1 @@
+This repository contains the LightGBM code integrated with three metaheuristic algorithms (GJO, POA, and ZOA), developing three hybrid models (GJO-LightGBM, POA-LightGBM, and ZOA-LightGBM) for the wildfire susceptibility modeling project in Kauaʻi and Molokaʻi Islands, Hawaii.
